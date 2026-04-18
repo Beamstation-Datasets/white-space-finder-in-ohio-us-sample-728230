@@ -9,9 +9,9 @@
 | Dataset ID | `728230` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 119 records |
-| Free sample size | 11 records (9.24%) |
-| Last export | 2026-04-08T00:36:00.001594+00:00 |
+| Full dataset size | 116 records |
+| Free sample size | 11 records (9.48%) |
+| Last export | 2026-04-15T06:21:35.158424+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-ohio-us-sample-728230/releases/download/sample-latest/beamstation_728230_food_and_drink-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
