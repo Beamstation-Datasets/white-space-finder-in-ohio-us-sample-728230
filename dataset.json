@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Ohio that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Ohio, US",
-  "export_job_id": "af3e89a9-3963-4fd5-82ab-594c715f4a96",
+  "export_job_id": "f0293807-b779-4fd0-bfb5-0d68e885177c",
   "github_org": "Beamstation-Datasets",
   "id_short": 728230,
   "location_name": "Ohio",
   "location_type": "state",
   "repo_name": "white-space-finder-in-ohio-us-sample-728230",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/728230/beamstation_728230_food_and_drink-us-oh_SAMPLE_DIST.csv",
-  "sample_pct": 9.24,
+  "sample_pct": 9.48,
   "sample_records": 11,
-  "sample_sha256": "3c6d6bae203e544136b6d6b677adb3580edd539b924ff74292a05ff4a1540a98",
-  "sample_size_bytes": 59149,
-  "total_records": 119,
-  "updated_at": "2026-04-08T00:36:00.001594+00:00"
+  "sample_sha256": "7965569b55710b540528f40be9c00caadbe9efad017539c7631e7cdc92976b9f",
+  "sample_size_bytes": 53189,
+  "total_records": 116,
+  "updated_at": "2026-04-15T06:21:35.158424+00:00"
 }
