@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b70c6bc1-007b-48d0-a0d1-272c865af9e9",
+  "export_job_id": "0f8a8134-a08d-4a64-88b6-57ea1f9dc7a5",
   "id_short": 728230,
-  "published_at": "2026-04-23T07:07:04Z",
+  "published_at": "2026-04-29T19:32:55Z",
   "repo_name": "white-space-finder-in-ohio-us-sample-728230",
   "sample_asset_name": "beamstation_728230_food_and_drink-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/728230/beamstation_728230_food_and_drink-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "72365c7d5ca0551254618c5222f4af62b413787b5a3810ab48130cac078d1b1c",
-  "sample_size_bytes": 61222,
-  "total_records": 133
+  "sample_records": 11,
+  "sample_sha256": "f64c474370f29ac9a55f1fb192e1b326a618a1018d21fba26a8a05dd53767ed7",
+  "sample_size_bytes": 54397,
+  "total_records": 116
 }
